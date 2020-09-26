@@ -21,7 +21,7 @@ body {
   background-color: lightgrey;
   max-width: 1000px;
   margin: 0 auto;
-  background-image: url("/img/gradient.jpg");
+  background-image: url("../img/gradient.jpg");
 }
 
 h1 {
